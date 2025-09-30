@@ -1,0 +1,130 @@
+<!Doctype html>
+<html>
+<head>
+<title>BIBLE QUESTIONS </title>
+</head>
+<body bgcolor="grey">
+
+<a href="C:\Users\AMOAKO\Desktop\HTML\FRUIT OF REPENTANCE INT. MINISTRY OFFICIAL WEBSITE.html">🚞HOME</a><br>
+<fieldset>
+<font size="4" face="algerian" color="red">
+BIOGRAPHY ABOUT THE BLOGER
+</font>
+<BR>THE BLOGER OF THIS WEBSITE GOES BY THE NAME KWAME FRIMPONG BUT IS POPULARILY KNOWN AS KMA.
+<BR> HE, BEING 16 YEARS OF AGE DEDICATED HIS TIME INTO SERVING GOD HE BELIEVE THAT GOD ALONE CAN HELP HIM PURSUE HIS DREAMS,SO WITH THE HELP OF GOD  HE CAME TO OWN THE BEST WEBSITE FOR BIBLE QUIZ " KMA BIBLE-IS-TRUTH" .
+<BR>THIS WEBSITE IS ALSO A SUB DIVISION OF THE 
+<a href="C:\Users\AMOAKO\Desktop\HTML\FRUIT OF REPENTANCE INT. MINISTRY OFFICIAL WEBSITE.html">FRUIT OF REPENTANCE INT. MINISTRY OFFICIAL WEBSITE</a>WEBSITE
+</fieldset>
+
+
+<font size="5" face="algerian" align="left"> 
+                BIBLE QUESTIONS FROM FRUIT OF REPENTENCE INT.<center> MINISTRY</center></font>
+<hr color="red width="19.30%" height="70%">
+
+<input type="checkbox" id="What sin is unforgivable">
+1.What sin is unforgivable?<br>
+A).Lying to God<br>
+B).Insulting God<br>
+C).Disrespect Jesus<br>
+D).Blasphemy against the spirit<br>
+
+<br>
+2.Who was greatest prophet to ever live?<br>
+3.Who was the fourth King  of Judah?<br>
+4.Why did the king of Babylon invade Isreal?<br>
+5.Who was names Emmanuel and why?<br>
+6.State the golden rule.<br>
+7.What did King Saul did to those who practiced witchcraft in Isreal?<br>
+8.He is the man after my heart. says the lord. Whom is referred to as he?<br>
+9.The beast used to represent the Greek empire was....<br>
+10.The new name given that was givento Daniel was..<br>
+11.How did the mother of the messiah Mary died?<br>
+12.The last John son of Zebede believed to be seen?<br>
+13. Armegeddon means..<br>
+14.The Lord told Moses that if they for my name tell that..<br>
+15.Who cured of leprosey by Elisha?<br>
+16.According to the book of Daniel how many kingdoms were to come?<br>
+17.The kingdom of Medo-Persia was represented by?<br>
+18.Who was the female judge of Isreal?<br>
+19.Where was Jacob's name changed to Isreal?<br>
+20.According to the bible what is the meaning of blasphemy?<br>
+21.What was the only exception given to married couples to file for a divorce by Jesus Christ?<br>
+22.Jesus Christ describes aultery as..<br>
+23.Sampson is a.<br>
+<br>
+<br>
+<br> 
+      <center><b>Continue The Following</center></b>.
+  
+24.Blessed is the man...<br>
+25.He who dwells in the shelter of the Most of High<br>
+26.You will tread on the lion and the adder..<br>
+27.You will not fear the terror of the night, nor...<br>
+28.Becuase you have the Lord your refuge<br>
+29.For he will give his angels charge of you t..<br>
+30.He is like the tree planted by the streams of water.<br>
+31.For the wicked are not so<br>
+32.Thou preparest a ...<br>
+33 Blessed are the meek ...<br>
+34.Blessed are those who are prosecuted for righteousness sake...<br><br>
+
+
+<font size="4" face="algerian" align="center">
+<center>
+           STATE THE MEANING OF THE FOLLOWING NAMES</center>
+</font>
+<hr width="50%" height="100%" color="red">
+<br>
+35.Noah<br>
+36.Issac<br>
+37.Emmanuel<br>
+38.Manasseh<br>
+39.Jacob<br>
+40.Moses<br>
+41.Christ<br>
+42.Sarai<br>
+43.Seth<br>
+44.Amageddon<br>
+45.Peter<br>
+46.Which book and chapter did <b>EBENEZER</b> first appear in the bible<br>
+47.What in the bible is used to represent Babylon<br>
+      <br>  <center><b><u>THE FOLLOWING IS A TRUE OR FALSE STATEMENT ANSWERTRUE WHEN AND FALSE WHEN FALSE </b></u></center>
+
+
+<br>48.Lucifer is described as an angel of light.
+a.True 
+b.False<br>
+
+<p>49.Whenever man challenges th divine it is God that answers them.<br>
+a.True 
+b.False
+
+<br><br>50.John dreamt about the kingdoms to come.<br>
+a.True 
+b.False<br><br>
+
+
+
+
+
+CLICK HERE FOR THE ANSWERS TO COMPARE<br>
+👉<a href="C:\Users\AMOAKO\Desktop\HTML\BIBLE QUIZ ANSWERS.html">ANSWERS TO QUESTIONS</a><br>AFTER TRYING THE QUESTIONS AND REMEMBER<br>
+<font size="7" face="calibiri" color="white"><center> GOD <center><br>LOVES<center> <br>YOU</font>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</font>
+</body>
+</html>
