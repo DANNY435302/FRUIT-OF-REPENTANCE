@@ -27,7 +27,7 @@ A).Lying to God<br>
 B).Insulting God<br>
 C).Disrespect Jesus<br>
 D).Blasphemy against the spirit<br>
-
+AS FOR THE REST SOLVE IT AFTER YOU ARE DONE SCROLL DOWN TO SEE THE ANSWERS
 <br>
 2.Who was greatest prophet to ever live?<br>
 3.Who was the fourth King  of Judah?<br>
